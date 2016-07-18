@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "空间配置器", "空间配置器\空间配置器.vcproj", "{CDC116B1-6F1E-44E1-A151-D0D029923168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC116B1-6F1E-44E1-A151-D0D029923168}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDC116B1-6F1E-44E1-A151-D0D029923168}.Debug|Win32.Build.0 = Debug|Win32
+		{CDC116B1-6F1E-44E1-A151-D0D029923168}.Release|Win32.ActiveCfg = Release|Win32
+		{CDC116B1-6F1E-44E1-A151-D0D029923168}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
